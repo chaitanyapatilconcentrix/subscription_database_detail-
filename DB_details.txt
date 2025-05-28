@@ -1,0 +1,21 @@
+masterData url: 
+jdbc:postgresql://smp-prod-rds.cksyhtkawxyl.ap-south-1.rds.amazonaws.com:5432/masterdata?ssl=true&sslmode=require&sslfactory=org.postgresql.ssl.NonValidatingFactory&sslrootcert=/tmp/rds-ca-2019-root.p12
+ 
+ 
+ 
+ 
+masterdataowner
+masterdataowner$72389
+ 
+ 
+ 
+Vehicle-management
+jdbc:postgresql://smp-prod-rds.cksyhtkawxyl.ap-south-1.rds.amazonaws.com:5432/subscribe-vehicle-management?ssl=true&sslmode=require&sslfactory=org.postgresql.ssl.NonValidatingFactory&sslrootcert=/tmp/rds-ca-2019-root.p12
+ 
+ 
+svm_master
+svm_master#*829
+ 
+ 
+ 
+ 
